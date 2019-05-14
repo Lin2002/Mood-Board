@@ -1,0 +1,22 @@
+body {
+ text-align:center;   
+ font-family: 'Indie Flower', cursive;
+ background-color:#a4abb2;
+}
+p{
+    font-size:20px;
+    }
+img {
+ height:150px;   
+}
+
+.images{
+ margin-top:10px;   
+}
+input{
+    width:130px;
+}
+h1{
+    border:5px solid black;
+    text-decoration:wavy underline black;
+}
