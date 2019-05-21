@@ -17,6 +17,6 @@ input{
     width:130px;
 }
 h1{
-    border:5px solid black;
+    border:5px dotted black;
     text-decoration:wavy underline black;
 }
